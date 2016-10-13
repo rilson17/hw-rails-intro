@@ -5,6 +5,7 @@ repo: [saasbook/rottenpotatoes-rails-intro](https://github.com/saasbook/rottenpo
 
 ```sh
 $ git clone https://github.com/YOUR_USER_NAME/rottenpotatoes-rails-intro
+$ cd rottenpotatoes-rails-intro
 ```
 
 Whenever you start working on a Rails project, the first thing you

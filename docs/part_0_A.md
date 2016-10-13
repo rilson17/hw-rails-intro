@@ -8,6 +8,8 @@ $ git clone https://github.com/YOUR_USER_NAME/rottenpotatoes-rails-intro
 $ cd rottenpotatoes-rails-intro
 ```
 
+This repo is already under version control, which you can confirm by issuing: `git status`.
+
 Whenever you start working on a Rails project, the first thing you
 should do is to run Bundler, to make sure all the app's gems are
 installed.  Switch to the app's root directory (presumably
